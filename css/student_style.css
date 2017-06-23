@@ -34,3 +34,14 @@
 }
 
 /* Place your styles below this line */
+#patricia-santana {
+  background-image: url('http://wac.450f.edgecastcdn.net/80450F/1079ishot.com/files/2014/06/Lipton_Kermit-630x422.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  font-size: 30px;
+  color: #fff;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-shadow: 1px 1px #000;
+  transition: .2s;
+}
